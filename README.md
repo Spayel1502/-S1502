@@ -1,4 +1,6 @@
 # S1502
-This is my first Git Repository.
-<br>
-Author- Payel Nunia
+### Hi there 👋  
+I'm Payel Nunia, a 2nd-year CSE student 👩‍💻  
+- 🌱 Currently learning: Web Development  
+- ✨ 2025 Goal: Become a frontend developer 
+- 🚀 Projects: Coming soon...
